@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CRenameRefactoringInputPage">
+		<item key="workingset" value=""/>
+		<item key="macroDefinition" value="false"/>
+		<item key="scope" value="5"/>
+		<item key="comment" value="false"/>
+		<item key="references_inv" value="false"/>
+	</section>
+</section>

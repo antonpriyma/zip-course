@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="20" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="130" y="56">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.qnx.tools.ide.phab.ui.PhabActionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.cdt.managedbuilder.ui.buildConfigActionSet" itemType="typeToolBarContribution" x="53" y="22"/>
+<coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="167" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="167" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.ui.WorkingSetActionSet" itemType="typeToolBarContribution" x="53" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.cdt.make.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1581311842515" focus="true" label="Workspace - C/C++">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="example_resmgr_devnull.c" partName="example_resmgr_devnull.c" path="C:/QNX632/ide4-workspace/ZipCourse/NeutrinoResourceManager/example_resmgr_devnull.c" title="example_resmgr_devnull.c" tooltip="NeutrinoResourceManager/example_resmgr_devnull.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/NeutrinoResourceManager/example_resmgr_devnull.c"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="NeutrinoResourceManager_g" partName="NeutrinoResourceManager_g" path="C:/QNX632/ide4-workspace/ZipCourse/NeutrinoResourceManager/x86/o-g/NeutrinoResourceManager_g" title="NeutrinoResourceManager_g" tooltip="NeutrinoResourceManager/x86/o-g/NeutrinoResourceManager_g" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/NeutrinoResourceManager/x86/o-g/NeutrinoResourceManager_g"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Test.cc" partName="Test.cc" path="C:/QNX632/ide4-workspace/ZipCourse/Test/Test.cc" title="Test.cc" tooltip="Test/Test.cc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Test/Test.cc"/>
+</editor>
+<editor id="org.eclipse.cdt.make.editor" name="Makefile" partName="Makefile" path="C:/QNX632/ide4-workspace/ZipCourse/Test/Makefile" title="Makefile" tooltip="Test/Makefile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Test/Makefile"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ResourseManagerCarcass.cc" partName="ResourseManagerCarcass.cc" path="C:/QNX632/ide4-workspace/ZipCourse/ResourseManagerCarcass/ResourseManagerCarcass.cc" title="ResourseManagerCarcass.cc" tooltip="ResourseManagerCarcass/ResourseManagerCarcass.cc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ResourseManagerCarcass/ResourseManagerCarcass.cc"/>
+</editor>
+<editor focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="write.cc" partName="write.cc" path="C:/QNX632/ide4-workspace/ZipCourse/ResourseManagerCarcass/write.cc" title="write.cc" tooltip="ResourseManagerCarcass/write.cc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ResourseManagerCarcass/write.cc"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="read.cc" partName="read.cc" path="C:/QNX632/ide4-workspace/ZipCourse/ResourseManagerCarcass/read.cc" title="read.cc" tooltip="ResourseManagerCarcass/read.cc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ResourseManagerCarcass/read.cc"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="myresmgr.h" partName="myresmgr.h" path="C:/QNX632/ide4-workspace/ZipCourse/ResourseManagerCarcass/myresmgr.h" title="myresmgr.h" tooltip="ResourseManagerCarcass/myresmgr.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ResourseManagerCarcass/myresmgr.h"/>
+</editor>
+<editor id="org.eclipse.cdt.make.editor" name="Makefile" partName="Makefile" path="C:/QNX632/ide4-workspace/ZipCourse/ResourseManagerCarcass/x86/Makefile" title="Makefile" tooltip="ResourseManagerCarcass/x86/Makefile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ResourseManagerCarcass/x86/Makefile"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState columnWidth0="43" columnWidth1="19" columnWidth2="253" columnWidth3="78" columnWidth4="153" columnWidth5="63" columnWidth6="0" horizontalPosition="0" verticalPosition="0">
+<columnOrder columnOrderIndex="0"/>
+<columnOrder columnOrderIndex="1"/>
+<columnOrder columnOrderIndex="2"/>
+<columnOrder columnOrderIndex="3"/>
+<columnOrder columnOrderIndex="4"/>
+<columnOrder columnOrderIndex="5"/>
+<columnOrder columnOrderIndex="6"/>
+</viewState>
+</view>
+<view id="org.eclipse.cdt.ui.CView" partName="C/C++ Projects">
+<viewState horizontalPosition="0" verticalPosition="0">
+<expanded>
+<element path="C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager"/>
+<element path="C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86"/>
+<element path="C:\QNX632\ide4-workspace\ZipCourse\ResourseManagerCarcass"/>
+<element path="C:\QNX632\ide4-workspace\ZipCourse\Test"/>
+<element path="C:\QNX632\ide4-workspace\ZipCourse\Test\x86"/>
+</expanded>
+<selection>
+<element path="C:/QNX632/ide4-workspace/ZipCourse/ResourseManagerCarcass"/>
+</selection>
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ArchiveFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.ui.CView_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.NonCElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ExecutableFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.SharedFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ObjectFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.NonCProjectsFilter" isEnabled="true"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ClosedProjectFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.processview" partName="Process Information">
+<viewState categorize="1" items="124,117,102,108,109" process.highlight="0"/>
+</view>
+<view id="QNXSystemBuilderProjectView" partName="System Builder Projects">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>&#x0A;<filter element=".*" isEnabled="false"/>
+</filters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>&#x0A;<filter element=".*" isEnabled="false"/>
+</filters>
+<selection>&#x0A;<element path="/QNX_NTO"/>
+</selection>
+</viewState>
+</view>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.mallocview" partName="Malloc Information">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline"/>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.memview" partName="Memory Information">
+<viewState/>
+</view>
+<view id="QNXSystemBuilderBinaryInspector" partName="QNX Binary Inspector"/>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.systemview" partName="System Summary">
+<viewState system.highlight="0"/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="259" columnWidth1="84" columnWidth2="159" columnWidth3="69" columnWidth4="0" horizontalPosition="0" verticalPosition="0">
+<columnOrder columnOrderIndex="0"/>
+<columnOrder columnOrderIndex="1"/>
+<columnOrder columnOrderIndex="2"/>
+<columnOrder columnOrderIndex="3"/>
+<columnOrder columnOrderIndex="4"/>
+</viewState>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.cdt.ui.CPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.cdt.internal.ui.CPerspectiveFactory" id="org.eclipse.cdt.ui.CPerspective" label="C/C++"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.target.ui.actionset.log"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.updater"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.SearchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.phab.ui.PhabActionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.qde.ui.extraActions"/>
+<alwaysOnActionSet id="org.eclipse.cdt.make.ui.makeTargetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.managedbuilder.ui.buildConfigActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.managedbuilder.ui.buildSelectedFilesActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CodingActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.ui.CView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="com.qnx.tools.ide.target.fsys"/>
+<show_view_action id="com.qnx.tools.ide.target.internal.ui.targetview"/>
+<show_view_action id="org.eclipse.cdt.make.ui.views.MakeView"/>
+<new_wizard_action id="com.qnx.tools.ide.qde.ui.MPQNXCWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewMakeCProjectWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.ConvertToMakeWizard"/>
+<new_wizard_action id="org.eclipse.cdt.managedbuilder.ui.wizards.StdCWizard"/>
+<new_wizard_action id="com.qnx.tools.ide.qde.ui.MPQNXCCWizard"/>
+<new_wizard_action id="org.eclipse.cdt.make.ui.wizards.NewMakeCCProjectWizard"/>
+<new_wizard_action id="org.eclipse.cdt.managedbuilder.ui.wizards.StdCCWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
+<perspective_action id="com.qnx.tools.ide.BSPPerspective"/>
+<perspective_action id="com.qnx.tools.ide.sysinfo.perspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<view id="org.eclipse.cdt.ui.CView"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.cdt.ui.CView" appearance="2" expanded="2">
+<page content="org.eclipse.cdt.ui.CView" label="C/C++ Projects"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@b70648" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.14051215" ratioLeft="214" ratioRight="1309" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.7489362" ratioLeft="528" ratioRight="177" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.78367347" ratioLeft="384" ratioRight="106" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.make.ui.views.MakeView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="0" fixed="0" version="0.016">
+<descriptor class="com.qnx.tools.ide.sysinfo.internal.ui.SysInfoPerspective" id="com.qnx.tools.ide.sysinfo.perspective" label="QNX System Information"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.target.ui.actionset.log"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.updater"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<show_view_action id="com.qnx.tools.ide.target.internal.ui.targetview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.systemview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.processview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.memview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.mallocview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.blockedview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.coidview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.signalview"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.internal.ui.usageview"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="com.qnx.tools.ide.apsinfo.ui.views.APSView"/>
+<show_view_action id="com.qnx.tools.ide.target.fsys"/>
+<show_view_action id="com.qnx.tools.ide.sysinfo.log.ui.historyView"/>
+<new_wizard_action id="com.qnx.tools.ide.target.ui.wizard.NewTarget"/>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.systemview"/>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.processview"/>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.memview"/>
+<view id="com.qnx.tools.ide.sysinfo.internal.ui.mallocview"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="navArea">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.qnx.tools.ide.target.internal.ui.targetview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74967235" ratioLeft="1144" ratioRight="382" relationship="2" relative="navArea">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24967235" ratioLeft="381" ratioRight="1145" relationship="2" relative="navArea"/>
+<info folder="true" part="belowEditor" ratio="0.2493113" ratioLeft="181" ratioRight="545" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="com.qnx.tools.ide.sysinfo.internal.ui.mallocview" appearance="2" expanded="2">&#x0A;<page content="com.qnx.tools.ide.sysinfo.internal.ui.systemview" label="System Summary"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.processview" label="Process Information"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.memview" label="Memory Information"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.mallocview" label="Malloc Information"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.blockedview" label="LabelNotFound"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.coidview" label="LabelNotFound"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.signalview" label="LabelNotFound"/>
+<page content="com.qnx.tools.ide.sysinfo.internal.ui.usageview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="belowSysViews" ratio="0.74862385" ratioLeft="408" ratioRight="137" relationship="4" relative="belowEditor">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="com.qnx.tools.ide.sysinfo.log.ui.historyView" ratio="0.5" ratioLeft="363" ratioRight="363" relationship="4" relative="navArea"/>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.target.ui.actionset.log"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.updater"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.cdt.ui.CPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.AnnotateView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74967235" ratioLeft="1144" ratioRight="382" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25950196" ratioLeft="396" ratioRight="1130" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6597796" ratioLeft="479" ratioRight="247" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="363" ratioRight="363" relationship="4" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.qnx.tools.ide.packages.ui.BSPPerspectiveFactory" id="com.qnx.tools.ide.BSPPerspective" label="QNX BSP"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.target.ui.actionset.log"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.updater"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<show_view_action id="QNXSystemBuilderProjectView"/>
+<show_view_action id="QNXSystemBuilderBinaryInspector"/>
+<show_view_action id="QNXSystemBuilderConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.cdt.ui.CView"/>
+<show_view_action id="org.eclipse.cdt.ui.BuildConsoleView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="QNXSystemBuilderProject"/>
+<new_wizard_action id="QNXSystemBuilderEFSProject"/>
+<new_wizard_action id="com.qnx.tools.ide.target.wizards.newtarget"/>
+<perspective_action id="QNXSystemBuilderPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="com.qnx.tools.ide.sysinfo.perspective"/>
+<perspective_action id="org.eclipse.cdt.ui.CPerspective"/>
+<view id="QNXSystemBuilderProjectView"/>
+<view id="org.eclipse.cdt.ui.CView"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="QNXSystemBuilderBinaryInspector"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="leftFolder">&#x0A;<folder activePageID="QNXSystemBuilderProjectView" appearance="2" expanded="2">&#x0A;<page content="QNXSystemBuilderProjectView" label="System Builder Projects"/>
+<page content="org.eclipse.cdt.ui.CView" label="C/C++ Projects"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74967235" ratioLeft="1144" ratioRight="382" relationship="2" relative="leftFolder">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24967235" ratioLeft="381" ratioRight="1145" relationship="2" relative="leftFolder"/>
+<info folder="true" part="bottomFolder" ratio="0.6997245" ratioLeft="508" ratioRight="218" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="QNXSystemBuilderBinaryInspector" label="QNX Binary Inspector"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="rightFolder" ratio="0.749345" ratioLeft="858" ratioRight="287" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.qnx.tools.ide.profiler.internal.ui.ProfilerPerspectiveFactory" id="com.qnx.tools.ide.profiler.ui.ProfilerPerspective" label="QNX Application Profiler"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.target.ui.actionset.log"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.updater"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="com.qnx.tools.ide.profiler.ui.ProfilerView"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="com.qnx.tools.ide.profiler.ui.SampleView"/>
+<show_view_action id="com.qnx.tools.ide.profiler.ui.ArcView"/>
+<show_view_action id="com.qnx.tools.ide.profiler.ui.ThreadView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="profiler_folder_view">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.qnx.tools.ide.profiler.ui.ProfilerView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.DebugView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74967235" ratioLeft="1144" ratioRight="382" relationship="2" relative="profiler_folder_view">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="sample_folder_view" ratio="0.19972453" ratioLeft="145" ratioRight="581" relationship="4" relative="profiler_folder_view">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.qnx.tools.ide.profiler.ui.SampleView" label="LabelNotFound"/>
+<page content="com.qnx.tools.ide.profiler.ui.ArcView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.5" ratioLeft="763" ratioRight="763" relationship="2" relative="sample_folder_view"/>
+<info folder="true" part="thread_folder_view" ratio="0.5" ratioLeft="763" ratioRight="763" relationship="2" relative="profiler_folder_view">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="com.qnx.tools.ide.profiler.ui.ThreadView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/ResourseManagerCarcass.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/write.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/read.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/ResourseManagerCarcass/myresmgr.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/read.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Test/Test.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/ResourseManagerCarcass.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.make.editor" path="/ResourseManagerCarcass/x86/Makefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/read.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ResourseManagerCarcass/write.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/ResourseManagerCarcass/myresmgr.h"/>
+</editors>
+<item historyLabel="myresmgr.h" index="3">
+<position info="not_deleted" x="324" y="0"/>
+</item>
+<item historyLabel="write.cc" index="1">
+<position info="not_deleted" x="582" y="18"/>
+</item>
+<item historyLabel="read.cc" index="2">
+<position info="not_deleted" x="294" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="0">
+<position info="not_deleted" x="1482" y="0"/>
+</item>
+<item historyLabel="read.cc" index="2">
+<position info="not_deleted" x="1277" y="0"/>
+</item>
+<item historyLabel="write.cc" index="1">
+<position info="not_deleted" x="417" y="0"/>
+</item>
+<item historyLabel="read.cc" index="2">
+<position info="not_deleted" x="1277" y="0"/>
+</item>
+<item historyLabel="write.cc" index="1">
+<position info="not_deleted" x="417" y="0"/>
+</item>
+<item historyLabel="read.cc" index="4">
+<position/>
+</item>
+<item historyLabel="Test.cc" index="5">
+<position/>
+</item>
+<item historyLabel="write.cc" index="1">
+<position/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position/>
+</item>
+<item historyLabel="Makefile" index="7">
+<position/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="1603" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="646" y="0"/>
+</item>
+<item historyLabel="read.cc" index="8">
+<position/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="646" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="160" y="184"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="2129" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="386" y="1877"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="1859" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="386" y="1877"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="439" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="386" y="1877"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="439" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="108" y="25"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="134" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="108" y="25"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="134" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="108" y="25"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="134" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="1410" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="1277" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="148" y="0"/>
+</item>
+<item historyLabel="myresmgr.h" index="10">
+<position/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="135" y="21"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="1277" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="2125" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="219" y="13"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="459" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="1907" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="1907" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="2112" y="0"/>
+</item>
+<item historyLabel="write.cc" index="9">
+<position info="not_deleted" x="2092" y="0"/>
+</item>
+<item historyLabel="ResourseManagerCarcass.cc" index="6">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item active="true" historyLabel="write.cc" index="9">
+<position info="not_deleted" x="2092" y="0"/>
+</item>
+</navigationHistory>
+<stickyState>
+<perspective IMemento.internal.id="org.eclipse.ui.resourcePerspective"/>
+<perspective IMemento.internal.id="com.qnx.tools.ide.profiler.ui.ProfilerPerspective"/>
+<perspective IMemento.internal.id="com.qnx.tools.ide.BSPPerspective"/>
+<perspective IMemento.internal.id="com.qnx.tools.ide.sysinfo.perspective"/>
+<perspective IMemento.internal.id="org.eclipse.cdt.ui.CPerspective"/>
+</stickyState>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.make.editor" name="Makefile" tooltip="ResourseManagerCarcass/x86/Makefile">
+<persistable path="/ResourseManagerCarcass/x86/Makefile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="read.cc" tooltip="ResourseManagerCarcass/read.cc">
+<persistable path="/ResourseManagerCarcass/read.cc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="write.cc" tooltip="ResourseManagerCarcass/write.cc">
+<persistable path="/ResourseManagerCarcass/write.cc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ResourseManagerCarcass.cc" tooltip="ResourseManagerCarcass/ResourseManagerCarcass.cc">
+<persistable path="/ResourseManagerCarcass/ResourseManagerCarcass.cc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.make.editor" name="Makefile" tooltip="Test/Makefile">
+<persistable path="/Test/Makefile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Test.cc" tooltip="Test/Test.cc">
+<persistable path="/Test/Test.cc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="NeutrinoResourceManager_g" tooltip="NeutrinoResourceManager/x86/o-g/NeutrinoResourceManager_g">
+<persistable path="/NeutrinoResourceManager/x86/o-g/NeutrinoResourceManager_g"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="example_resmgr_devnull.c" tooltip="NeutrinoResourceManager/example_resmgr_devnull.c">
+<persistable path="/NeutrinoResourceManager/example_resmgr_devnull.c"/>
+</file>
+</mruList>
+</workbench>

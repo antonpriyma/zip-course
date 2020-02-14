@@ -1,0 +1,1306 @@
+!SESSION 2020-02-10 05:17:20.137 -----------------------------------------------
+eclipse.buildId=I20070321
+java.version=1.5.0_07
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -data C:\QNX632\ide4-workspace\ZipCourse -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.cdt.launch 4 150 2020-02-10 05:20:36.307
+!MESSAGE Error starting process.
+!STACK 0
+java.io.IOException: Exec error:Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:243)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:57)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:85)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.exec(LocalCDILaunchDelegate.java:344)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:88)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:62)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:639)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2020-02-10 05:20:36.311
+!MESSAGE Exec error:Launching failed
+!STACK 0
+java.io.IOException: Exec error:Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:243)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:57)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:85)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.exec(LocalCDILaunchDelegate.java:344)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:88)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:62)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:639)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SESSION 2020-02-10 06:34:01.227 -----------------------------------------------
+eclipse.buildId=I20070321
+java.version=1.5.0_07
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.cdt.launch 4 150 2020-02-10 06:34:20.084
+!MESSAGE Error starting process.
+!STACK 0
+java.io.IOException: Exec error:Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:243)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:57)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:85)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.exec(LocalCDILaunchDelegate.java:344)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:88)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:62)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:639)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2020-02-10 06:34:20.084
+!MESSAGE Exec error:Launching failed
+!STACK 0
+java.io.IOException: Exec error:Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:243)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:57)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:85)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.exec(LocalCDILaunchDelegate.java:344)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:88)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:62)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:639)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY com.qnx.tools.ide.qde.ui 4 0 2020-02-10 18:05:47.869
+!MESSAGE Error starting remote application.
+!STACK 0
+com.qnx.tools.utils.target.QConnException: Target launcher@<localhost:8000>: Error Exec format error
+	at com.qnx.tools.utils.target.TargetBinary.parseResponse(TargetBinary.java:130)
+	at com.qnx.tools.utils.target.TargetServiceLaunch.launch(TargetServiceLaunch.java:136)
+	at com.qnx.tools.utils.target.TargetProcess.startProcess(TargetProcess.java:46)
+	at com.qnx.tools.utils.target.TargetProcess.<init>(TargetProcess.java:15)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchUtils.remoteLaunch(QDELaunchUtils.java:236)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate.startApplicationOnTarget(QDELaunchConfigurationDelegate.java:579)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate$1.doRun(QDELaunchConfigurationDelegate.java:879)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate$QDELaunchJob.run(QDELaunchConfigurationDelegate.java:176)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 18:13:50.934
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 18:17:09.855
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 18:20:10.338
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 18:22:23.628
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.jface 2 0 2020-02-10 18:26:35.742
+!MESSAGE The image could not be loaded: URLImageDescriptor(bundleentry://150/icons/dtool16/target_filter.gif)
+!STACK 0
+org.eclipse.jface.resource.DeviceResourceException: Unable to create resource URLImageDescriptor(bundleentry://150/icons/dtool16/target_filter.gif)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:173)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:56)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:87)
+	at org.eclipse.jface.resource.LocalResourceManager.allocate(LocalResourceManager.java:83)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:87)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:114)
+	at org.eclipse.jface.action.ActionContributionItem.updateImages(ActionContributionItem.java:936)
+	at org.eclipse.jface.action.ActionContributionItem.update(ActionContributionItem.java:709)
+	at org.eclipse.jface.action.ActionContributionItem.fill(ActionContributionItem.java:330)
+	at org.eclipse.jface.action.ToolBarManager.update(ToolBarManager.java:317)
+	at org.eclipse.ui.internal.ViewPane.updateActionBars(ViewPane.java:443)
+	at org.eclipse.ui.internal.ViewActionBars.updateActionBars(ViewActionBars.java:59)
+	at org.eclipse.ui.internal.ViewReference.createPartHelper(ViewReference.java:363)
+	at org.eclipse.ui.internal.ViewReference.createPart(ViewReference.java:197)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:566)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:290)
+	at org.eclipse.ui.internal.ViewPane.setVisible(ViewPane.java:525)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:140)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:268)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:394)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1144)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1097)
+	at org.eclipse.ui.internal.PartStack.updateContainerVisibleTab(PartStack.java:1362)
+	at org.eclipse.ui.internal.PartStack.remove(PartStack.java:829)
+	at org.eclipse.ui.internal.PartStack.replace(PartStack.java:874)
+	at org.eclipse.ui.internal.PerspectiveHelper.removePart(PerspectiveHelper.java:1148)
+	at org.eclipse.ui.internal.Perspective.hideView(Perspective.java:490)
+	at org.eclipse.ui.internal.WorkbenchPage.hideView(WorkbenchPage.java:2208)
+	at org.eclipse.ui.internal.ViewPane.doHide(ViewPane.java:213)
+	at org.eclipse.ui.internal.PartStack.close(PartStack.java:499)
+	at org.eclipse.ui.internal.PartStack.close(PartStack.java:482)
+	at org.eclipse.ui.internal.PartStack$1.close(PartStack.java:106)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:81)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:267)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:276)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$1.closeButtonPressed(DefaultTabFolder.java:67)
+	at org.eclipse.ui.internal.presentations.PaneFolder.notifyCloseListeners(PaneFolder.java:580)
+	at org.eclipse.ui.internal.presentations.PaneFolder$3.close(PaneFolder.java:187)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:2107)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:292)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:977)
+	at org.eclipse.core.launcher.Main.main(Main.java:952)
+
+!ENTRY org.eclipse.core.filesystem 4 272 2020-02-10 18:39:24.126
+!MESSAGE Could not move: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:60)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:327)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:215)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:140)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:93)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:345)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:308)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:55)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:95)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:90)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:58)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:152)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:93)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:219)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:332)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:771)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1639)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:695)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:476)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:447)
+	at org.eclipse.ui.actions.DeleteResourceAction.access$2(DeleteResourceAction.java:436)
+	at org.eclipse.ui.actions.DeleteResourceAction$4.run(DeleteResourceAction.java:600)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.DeleteResourceAction$3.run(DeleteResourceAction.java:596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+org.eclipse.core.runtime.CoreException[271]: java.io.FileNotFoundException: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g (Отказано в доступе)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:318)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:215)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:140)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:93)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:345)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:308)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:55)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:95)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:90)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:58)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:152)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:93)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:219)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:332)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:771)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1639)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:695)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:476)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:447)
+	at org.eclipse.ui.actions.DeleteResourceAction.access$2(DeleteResourceAction.java:436)
+	at org.eclipse.ui.actions.DeleteResourceAction$4.run(DeleteResourceAction.java:600)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.DeleteResourceAction$3.run(DeleteResourceAction.java:596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2020-02-10 18:39:24.126
+!MESSAGE File not found: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g.
+!STACK 0
+java.io.FileNotFoundException: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g (Отказано в доступе)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:318)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:215)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:140)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:93)
+	at org.eclipse.core.filesystem.provider.FileStore.move(FileStore.java:345)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.move(LocalFile.java:308)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:55)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:95)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.recursiveKeepHistory(DeleteVisitor.java:90)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:58)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:152)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:93)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:219)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:332)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:771)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1639)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:695)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:476)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:447)
+	at org.eclipse.ui.actions.DeleteResourceAction.access$2(DeleteResourceAction.java:436)
+	at org.eclipse.ui.actions.DeleteResourceAction$4.run(DeleteResourceAction.java:600)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.DeleteResourceAction$3.run(DeleteResourceAction.java:596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY org.eclipse.core.resources 4 273 2020-02-10 18:39:24.131
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2020-02-10 18:39:24.131
+!MESSAGE Could not delete: /NeutrinoResourceManager/x86/o-g.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:222)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:332)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:771)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1639)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:695)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:476)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:447)
+	at org.eclipse.ui.actions.DeleteResourceAction.access$2(DeleteResourceAction.java:436)
+	at org.eclipse.ui.actions.DeleteResourceAction$4.run(DeleteResourceAction.java:600)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.DeleteResourceAction$3.run(DeleteResourceAction.java:596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2020-02-10 18:39:24.131
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 3 org.eclipse.core.filesystem 4 273 2020-02-10 18:39:24.131
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2020-02-10 18:39:24.131
+!MESSAGE Could not delete: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g.
+!SUBENTRY 2 org.eclipse.core.filesystem 4 273 2020-02-10 18:39:24.131
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 3 org.eclipse.core.filesystem 4 273 2020-02-10 18:39:24.131
+!MESSAGE Could not delete: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g.
+
+!ENTRY org.eclipse.core.filesystem 4 271 2020-02-10 18:39:36.508
+!MESSAGE File not found: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g.
+!STACK 0
+java.io.FileNotFoundException: C:\QNX632\ide4-workspace\ZipCourse\NeutrinoResourceManager\x86\o-g\NeutrinoResourceManager_g (Отказано в доступе)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:318)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:215)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:140)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:93)
+	at org.eclipse.core.internal.localstore.BlobStore.addBlob(BlobStore.java:57)
+	at org.eclipse.core.internal.localstore.HistoryStore2.addState(HistoryStore2.java:92)
+	at org.eclipse.core.internal.resources.ResourceTree.addToLocalHistory(ResourceTree.java:69)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFile(ResourceTree.java:264)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFile(ResourceTree.java:758)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1635)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:695)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:476)
+	at org.eclipse.ui.actions.DeleteResourceAction.delete(DeleteResourceAction.java:447)
+	at org.eclipse.ui.actions.DeleteResourceAction.access$2(DeleteResourceAction.java:436)
+	at org.eclipse.ui.actions.DeleteResourceAction$4.run(DeleteResourceAction.java:600)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.DeleteResourceAction$3.run(DeleteResourceAction.java:596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY com.qnx.tools.ide.qde.core 4 4 2020-02-10 18:39:40.225
+!MESSAGE Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: ***NeutrinoResourceManager: no active variants to build
+	at com.qnx.tools.ide.qde.core.internal.builder.QDEMakeBuilder.invokeMake(QDEMakeBuilder.java:315)
+	at com.qnx.tools.ide.qde.core.internal.builder.QDEMakeBuilder.build(QDEMakeBuilder.java:165)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:603)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:167)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:230)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:233)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:307)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:88)
+	at org.eclipse.ui.actions.BuildAction.invokeOperation(BuildAction.java:192)
+	at org.eclipse.ui.actions.WorkspaceAction.execute(WorkspaceAction.java:134)
+	at org.eclipse.ui.actions.WorkspaceAction$2.runInWorkspace(WorkspaceAction.java:429)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 com.qnx.tools.ide.qde.core 4 1 2020-02-10 18:39:40.225
+!MESSAGE ***NeutrinoResourceManager: no active variants to build
+
+!ENTRY com.qnx.tools.ide.qde.debug.core 4 0 2020-02-10 18:45:15.786
+!MESSAGE Read timed out
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.QConnSocket.receiveResponse(QConnSocket.java:391)
+	at com.qnx.tools.utils.target.QConnSocket.<init>(QConnSocket.java:227)
+	at com.qnx.tools.utils.target.QConnSocket.<init>(QConnSocket.java:162)
+	at com.qnx.tools.utils.target.QConnSocket.<init>(QConnSocket.java:174)
+	at com.qnx.tools.utils.target.TargetBinary.<init>(TargetBinary.java:26)
+	at com.qnx.tools.utils.target.TargetServiceFile.<init>(TargetServiceFile.java:82)
+	at com.qnx.tools.ide.qde.debug.internal.core.QDELaunch.getFileService(QDELaunch.java:178)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate.prepareAndDownloadBinaries(QDELaunchConfigurationDelegate.java:515)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate$1.doRun(QDELaunchConfigurationDelegate.java:878)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate$QDELaunchJob.run(QDELaunchConfigurationDelegate.java:176)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 18:48:37.229
+!MESSAGE Error logged from Debug Core: 
+!STACK 1
+org.eclipse.debug.core.DebugException: Target request failed: Target is not responding (timed out).
+	at org.eclipse.cdt.debug.internal.core.model.CDebugElement.throwDebugException(CDebugElement.java:280)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugElement.requestFailed(CDebugElement.java:252)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugElement.targetRequestFailed(CDebugElement.java:240)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.disconnect(CDebugTarget.java:720)
+	at org.eclipse.debug.core.Launch.disconnect(Launch.java:455)
+	at org.eclipse.debug.internal.core.LaunchManager.shutdown(LaunchManager.java:1957)
+	at org.eclipse.debug.core.DebugPlugin.stop(DebugPlugin.java:560)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$3.run(BundleContextImpl.java:1032)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:1028)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:396)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.stop(AbstractBundle.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.BundleStopper.basicStopBundles(BundleStopper.java:86)
+	at org.eclipse.core.runtime.internal.adaptor.BundleStopper.stopBundles(BundleStopper.java:73)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAdaptorHook.frameworkStopping(EclipseAdaptorHook.java:156)
+	at org.eclipse.osgi.baseadaptor.BaseAdaptor.frameworkStopping(BaseAdaptor.java:288)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:538)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:449)
+	at org.eclipse.osgi.framework.internal.core.OSGi.close(OSGi.java:41)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:423)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:193)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:977)
+	at org.eclipse.core.launcher.Main.main(Main.java:952)
+!SUBENTRY 1 org.eclipse.cdt.debug.core 4 5010 2020-02-10 18:48:37.229
+!MESSAGE Target request failed: Target is not responding (timed out).
+!SESSION 2020-02-10 18:48:29.151 -----------------------------------------------
+eclipse.buildId=I20070321
+java.version=1.5.0_07
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.qnx.tools.ide.qde.core 4 4 2020-02-10 18:50:01.068
+!MESSAGE Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: ***NeutrinoResourceManager: no active variants to build
+	at com.qnx.tools.ide.qde.core.internal.builder.QDEMakeBuilder.invokeMake(QDEMakeBuilder.java:315)
+	at com.qnx.tools.ide.qde.core.internal.builder.QDEMakeBuilder.build(QDEMakeBuilder.java:165)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:603)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:167)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:230)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:233)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:307)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:88)
+	at org.eclipse.ui.actions.BuildAction.invokeOperation(BuildAction.java:192)
+	at org.eclipse.ui.actions.WorkspaceAction.execute(WorkspaceAction.java:134)
+	at org.eclipse.ui.actions.WorkspaceAction$2.runInWorkspace(WorkspaceAction.java:429)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 com.qnx.tools.ide.qde.core 4 1 2020-02-10 18:50:01.068
+!MESSAGE ***NeutrinoResourceManager: no active variants to build
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 19:07:13.864
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 19:15:18.330
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2020-02-10 20:22:21.957 -----------------------------------------------
+eclipse.buildId=I20070321
+java.version=1.5.0_07
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 20:43:03.960
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 20:44:25.063
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 20:48:36.675
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-10 20:51:58.593
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.qnx.tools.ide.qde.debug.core 4 0 2020-02-10 20:57:52.051
+!MESSAGE Launch cleaning error
+!SUBENTRY 1 com.qnx.tools.ide.qde.debug.core 4 0 2020-02-10 20:57:52.051
+!MESSAGE Attempt to delete remote file '/tmp/ResourseManagerCarcass_gantonpriyma1581368188639' failed:
+!STACK 0
+java.net.SocketException: Software caused connection abort: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetBinary.receiveResponse(TargetBinary.java:113)
+	at com.qnx.tools.utils.target.TargetServiceFile.command(TargetServiceFile.java:208)
+	at com.qnx.tools.utils.target.TargetServiceFile.command(TargetServiceFile.java:191)
+	at com.qnx.tools.utils.target.TargetServiceFile.rm(TargetServiceFile.java:303)
+	at com.qnx.tools.utils.target.TargetServiceFile.rm(TargetServiceFile.java:290)
+	at com.qnx.tools.ide.qde.debug.internal.core.QDELaunch$1.run(QDELaunch.java:143)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY com.qnx.tools.ide.qde.debug.core 4 0 2020-02-10 20:57:52.056
+!MESSAGE Launch cleaning error
+!SUBENTRY 1 com.qnx.tools.ide.qde.debug.core 4 0 2020-02-10 20:57:52.056
+!MESSAGE Attempt to delete remote file '/tmp/ResourseManagerCarcass_gantonpriyma1581367932078' failed:
+!STACK 0
+java.net.SocketException: Software caused connection abort: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetBinary.receiveResponse(TargetBinary.java:113)
+	at com.qnx.tools.utils.target.TargetServiceFile.command(TargetServiceFile.java:208)
+	at com.qnx.tools.utils.target.TargetServiceFile.command(TargetServiceFile.java:191)
+	at com.qnx.tools.utils.target.TargetServiceFile.rm(TargetServiceFile.java:303)
+	at com.qnx.tools.utils.target.TargetServiceFile.rm(TargetServiceFile.java:290)
+	at com.qnx.tools.ide.qde.debug.internal.core.QDELaunch$1.run(QDELaunch.java:143)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SESSION 2020-02-12 18:22:34.113 -----------------------------------------------
+eclipse.buildId=I20070321
+java.version=1.5.0_07
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2020-02-12 18:34:12.875
+!MESSAGE Unhandled event loop exception
+
+!ENTRY org.eclipse.ui 4 0 2020-02-12 18:34:12.881
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.refactoring.ui.CRenameRefactoringInputPage.onSelectWorkingSet(CRenameRefactoringInputPage.java:432)
+	at org.eclipse.cdt.internal.refactoring.ui.CRenameRefactoringInputPage$2.widgetSelected(CRenameRefactoringInputPage.java:226)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:820)
+	at org.eclipse.jface.window.Window.open(Window.java:796)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:132)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:145)
+	at org.eclipse.cdt.refactoring.CRefactory.rename(CRefactory.java:103)
+	at org.eclipse.cdt.refactoring.actions.CRenameAction.run(CRenameAction.java:62)
+	at org.eclipse.cdt.refactoring.actions.CRenameEditorActionDelegate.run(CRenameEditorActionDelegate.java:28)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:254)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:539)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:977)
+	at org.eclipse.core.launcher.Main.main(Main.java:952)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 18:38:29.242
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.qnx.tools.ide.qde.debug.core 4 104 2020-02-12 18:48:23.378
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: C:\QNX632\ide4-workspace\ZipCourse\ResourseManagerCarcass\x86\o-g\ResourseManagerCarcass_g not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:369)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate.getLaunch(QDELaunchConfigurationDelegate.java:631)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:581)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 com.qnx.tools.ide.qde.debug.core 4 104 2020-02-12 18:48:23.379
+!MESSAGE C:\QNX632\ide4-workspace\ZipCourse\ResourseManagerCarcass\x86\o-g\ResourseManagerCarcass_g not found
+!STACK 0
+java.io.FileNotFoundException: C:\QNX632\ide4-workspace\ZipCourse\ResourseManagerCarcass\x86\o-g\ResourseManagerCarcass_g not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:369)
+	at com.qnx.tools.ide.qde.internal.ui.launch.QDELaunchConfigurationDelegate.getLaunch(QDELaunchConfigurationDelegate.java:631)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:581)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 18:49:27.962
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 18:49:28.479
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.osgi 4 0 2020-02-12 18:49:29.019
+!MESSAGE Error while stopping "org.eclipse.debug.core_3.2.1.v20060823".
+!STACK 0
+org.osgi.framework.BundleException: Exception in org.eclipse.debug.core.DebugPlugin.stop() of bundle org.eclipse.debug.core.
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:1048)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:396)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.stop(AbstractBundle.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.BundleStopper.basicStopBundles(BundleStopper.java:86)
+	at org.eclipse.core.runtime.internal.adaptor.BundleStopper.stopBundles(BundleStopper.java:73)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAdaptorHook.frameworkStopping(EclipseAdaptorHook.java:156)
+	at org.eclipse.osgi.baseadaptor.BaseAdaptor.frameworkStopping(BaseAdaptor.java:288)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:538)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:449)
+	at org.eclipse.osgi.framework.internal.core.OSGi.close(OSGi.java:41)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:423)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:193)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:977)
+	at org.eclipse.core.launcher.Main.main(Main.java:952)
+Caused by: java.lang.NoClassDefFoundError: org/eclipse/cdt/debug/mi/core/cdi/event/ExitedEvent
+	at org.eclipse.cdt.debug.mi.core.cdi.EventManager.update(EventManager.java:166)
+	at java.util.Observable.notifyObservers(Unknown Source)
+	at org.eclipse.cdt.debug.mi.core.MISession.notifyObservers(MISession.java:762)
+	at org.eclipse.cdt.debug.mi.core.MISession.terminate(MISession.java:751)
+	at org.eclipse.cdt.debug.mi.core.SessionProcess.destroy(SessionProcess.java:37)
+	at org.eclipse.debug.core.model.RuntimeProcess.terminate(RuntimeProcess.java:199)
+	at org.eclipse.debug.core.Launch.terminate(Launch.java:229)
+	at org.eclipse.debug.internal.core.LaunchManager.shutdown(LaunchManager.java:1961)
+	at org.eclipse.debug.core.DebugPlugin.stop(DebugPlugin.java:560)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$3.run(BundleContextImpl.java:1032)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:1028)
+	... 19 more
+Root exception:
+java.lang.NoClassDefFoundError: org/eclipse/cdt/debug/mi/core/cdi/event/ExitedEvent
+	at org.eclipse.cdt.debug.mi.core.cdi.EventManager.update(EventManager.java:166)
+	at java.util.Observable.notifyObservers(Unknown Source)
+	at org.eclipse.cdt.debug.mi.core.MISession.notifyObservers(MISession.java:762)
+	at org.eclipse.cdt.debug.mi.core.MISession.terminate(MISession.java:751)
+	at org.eclipse.cdt.debug.mi.core.SessionProcess.destroy(SessionProcess.java:37)
+	at org.eclipse.debug.core.model.RuntimeProcess.terminate(RuntimeProcess.java:199)
+	at org.eclipse.debug.core.Launch.terminate(Launch.java:229)
+	at org.eclipse.debug.internal.core.LaunchManager.shutdown(LaunchManager.java:1961)
+	at org.eclipse.debug.core.DebugPlugin.stop(DebugPlugin.java:560)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$3.run(BundleContextImpl.java:1032)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:1028)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:396)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.stop(AbstractBundle.java:400)
+	at org.eclipse.core.runtime.internal.adaptor.BundleStopper.basicStopBundles(BundleStopper.java:86)
+	at org.eclipse.core.runtime.internal.adaptor.BundleStopper.stopBundles(BundleStopper.java:73)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAdaptorHook.frameworkStopping(EclipseAdaptorHook.java:156)
+	at org.eclipse.osgi.baseadaptor.BaseAdaptor.frameworkStopping(BaseAdaptor.java:288)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:538)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:449)
+	at org.eclipse.osgi.framework.internal.core.OSGi.close(OSGi.java:41)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:423)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:193)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:977)
+	at org.eclipse.core.launcher.Main.main(Main.java:952)
+!SESSION 2020-02-12 18:49:32.095 -----------------------------------------------
+eclipse.buildId=I20070321
+java.version=1.5.0_07
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 18:59:04.720
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:01:14.488
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:02:45.752
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:03:18.252
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:04:11.240
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:04:52.676
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:06:51.942
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:07:35.413
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:08:31.766
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:10:44.135
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:11:04.940
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:14:13.362
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:16:07.899
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:33:25.437
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:36:35.048
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:37:05.792
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.cdt.launch 4 150 2020-02-12 19:37:15.266
+!MESSAGE Error starting process.
+!STACK 0
+java.io.IOException: Exec error:Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:243)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:57)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:85)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.exec(LocalCDILaunchDelegate.java:344)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:88)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:62)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:639)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2020-02-12 19:37:15.266
+!MESSAGE Exec error:Launching failed
+!STACK 0
+java.io.IOException: Exec error:Launching failed
+	at org.eclipse.cdt.utils.spawner.Spawner.exec(Spawner.java:243)
+	at org.eclipse.cdt.utils.spawner.Spawner.<init>(Spawner.java:57)
+	at org.eclipse.cdt.utils.spawner.ProcessFactory.exec(ProcessFactory.java:85)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.exec(LocalCDILaunchDelegate.java:344)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:88)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:62)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:639)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:565)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:558)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:758)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$6.run(DebugUIPlugin.java:944)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:38:09.206
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:43:19.659
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-12 19:46:29.894
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.qnx.tools.ide.qde.ui 4 0 2020-02-14 09:19:03.344
+!MESSAGE Failed to establish connection with target 'unknown'.
+
+!ENTRY com.qnx.tools.ide.qde.debug.core 4 0 2020-02-14 09:19:22.972
+!MESSAGE Launch cleaning error
+!SUBENTRY 1 com.qnx.tools.ide.qde.debug.core 4 0 2020-02-14 09:19:22.972
+!MESSAGE Attempt to delete remote file '/tmp/ResourseManagerCarcass_gantonpriyma1581536879291' failed:
+!STACK 0
+java.net.SocketException: Software caused connection abort: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetBinary.receiveResponse(TargetBinary.java:113)
+	at com.qnx.tools.utils.target.TargetServiceFile.command(TargetServiceFile.java:208)
+	at com.qnx.tools.utils.target.TargetServiceFile.command(TargetServiceFile.java:191)
+	at com.qnx.tools.utils.target.TargetServiceFile.rm(TargetServiceFile.java:303)
+	at com.qnx.tools.utils.target.TargetServiceFile.rm(TargetServiceFile.java:290)
+	at com.qnx.tools.ide.qde.debug.internal.core.QDELaunch$1.run(QDELaunch.java:143)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 09:20:25.986
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 09:25:26.054
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 09:26:57.633
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 09:33:54.342
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 09:39:51.213
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 09:46:56.921
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 10:18:27.085
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 120 2020-02-14 10:30:10.972
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.read(Unknown Source)
+	at com.qnx.tools.utils.target.TargetProcess$InputStreamWrapper.read(TargetProcess.java:186)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:138)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:128)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:194)
+	at java.lang.Thread.run(Unknown Source)
