@@ -1,5 +1,0 @@
-
-
-
-#include "write.cc"
-
